@@ -17,5 +17,9 @@
 ## Ten simple rules
 这次的介绍的主题是生物领域的深度学习
 
+[Ten quick tips for deep learning in biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009803#pcbi.1009803.ref106)
+
+[Current progress and open challenges for applying deep learning across the biosciences](https://www.nature.com/articles/s41467-022-29268-7))
+
 ![](https://api.onedrive.com/v1.0/shares/s!AmHYnbBGuxuahB_CUWwzqFqs42Ul/root/content)
 ![](https://api.onedrive.com/v1.0/shares/s!AmHYnbBGuxuahB58UocG9MRm79rv/root/content)
